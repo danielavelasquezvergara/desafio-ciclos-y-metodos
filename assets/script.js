@@ -47,7 +47,7 @@ function ejercicio3() {
     alert(Math.round(promedio));
 }
 
-//ejercicio 4
+//ejercicio knjjknkjnkj
 function ejercicio4(){
     let cant = [1,2,3]
     let frutas = [];
